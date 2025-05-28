@@ -1,0 +1,2 @@
+[27/05/2025 18:58:31] Oi, estou testando meu diário com interface gráfica.
+
